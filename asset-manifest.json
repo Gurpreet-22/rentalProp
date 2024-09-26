@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rentalProp/static/css/main.e6c13ad2.css",
+    "main.js": "/rentalProp/static/js/main.654cc5ed.js",
+    "static/js/453.1aab9e09.chunk.js": "/rentalProp/static/js/453.1aab9e09.chunk.js",
+    "static/media/loftApartment.jpeg": "/rentalProp/static/media/loftApartment.459fdaaa86f1971f515e.jpeg",
+    "static/media/cottage.jpg": "/rentalProp/static/media/cottage.2c6932db85fbcca95b56.jpg",
+    "static/media/cozyRoom.jpg": "/rentalProp/static/media/cozyRoom.5450e9d7bd0e37402534.jpg",
+    "static/media/spaciousHouse.jpg": "/rentalProp/static/media/spaciousHouse.5c16758dea6c42879a62.jpg",
+    "static/media/penthouse.jpg": "/rentalProp/static/media/penthouse.9c91e75c0158888b8997.jpg",
+    "index.html": "/rentalProp/index.html",
+    "main.e6c13ad2.css.map": "/rentalProp/static/css/main.e6c13ad2.css.map",
+    "main.654cc5ed.js.map": "/rentalProp/static/js/main.654cc5ed.js.map",
+    "453.1aab9e09.chunk.js.map": "/rentalProp/static/js/453.1aab9e09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.654cc5ed.js"
+  ]
+}
