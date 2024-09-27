@@ -7,7 +7,7 @@ const Cart = () => {
   const { cartItems, removeFromCart, increaseQuantity, decreaseQuantity, getTotalPrice } = useContext(CartContext);
 
   return (
-    <div>
+<Paper elevation={3} style={{ padding: '20px', margin: '20px' }}>
       <Typography variant="h4">Your Cart</Typography>
       <List>
         {cartItems.map(item => (
@@ -29,7 +29,7 @@ const Cart = () => {
         ))}
       </List>
       <Typography variant="h5">Total: ${getTotalPrice().toFixed(2)}</Typography>
-    </div>
+    </Paper>
   );
 };
 
